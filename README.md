@@ -1,2 +1,2 @@
 # single_cell_blood_flow
-Analysis pipeline for measuring diameter and single-cell velocity of blood cells from space-time images captured with an adaptive optics scanning light ophthalmoscope (AOSLO)
+Analysis pipeline for measuring diameter and single-cell velocity of blood cells from space-time images captured with an adaptive optics scanning light ophthalmoscope (AOSLO). For questions, please contact Aby Joseph (aby.joseph@rochester.edu, dreamworks1991@gmail.com). If you find this code useful, please cite our paper: Joseph et al. 2019 "Imaging single-cell blood flow in the smallest to largest vessels in the living retina" eLife 2019;8:e45077 
